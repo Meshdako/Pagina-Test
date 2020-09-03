@@ -53,15 +53,14 @@ header h1 {
 
 /* Redes Sociales */
 aside{
-    color: #fca311;
-}
-aside img{
+    background-color: #fca311;
+
+    justify-content: flex-start;
+    width: 30%;
     float: right;
-}
-.Wordpress{
-    width: 100px;
-}
-.Youtube{
-    width: 150px;
+
+    border-radius: 10px;
+    margin: 25px;
+    padding-left: 20px;
 }
 /* Redes Sociales */
