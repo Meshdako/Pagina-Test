@@ -29,7 +29,7 @@ body{
     .Nav a:hover{
         background-color: #1d3557;
         color: #fca311;
-        border: 1px solid black;2
+        border: 1px solid black;
     }
 
     .Nav a:active{
@@ -38,6 +38,7 @@ body{
     }
 /* Fin de Barra de Navegación */
 
+/* Cabecera */
 header{
     background-color:#fca311;
     border-radius: 10px;
@@ -48,3 +49,19 @@ header{
 header h1 {
     text-align: center;
 }
+/* Cabecera */
+
+/* Redes Sociales */
+aside{
+    color: #fca311;
+}
+aside img{
+    float: right;
+}
+.Wordpress{
+    width: 100px;
+}
+.Youtube{
+    width: 150px;
+}
+/* Redes Sociales */
